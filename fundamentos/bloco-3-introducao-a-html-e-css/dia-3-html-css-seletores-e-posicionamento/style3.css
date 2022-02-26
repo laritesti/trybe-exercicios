@@ -1,0 +1,19 @@
+h1,p {
+    text-align:center;
+}
+
+.lista_sites {
+    background-color: cadetblue;
+}
+
+.lista_sites:hover {
+    background-color:violet;
+}
+
+.lista_sites:active {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.geral_sites {
+    list-style: none;
+}
