@@ -1,5 +1,5 @@
-const a = 5;
-const b = 3;
+const a = 2;
+const b = 4;
 const c = 1;
 
 if (a % 2 !== 0 || b % 2 !== 0 || c % 2 !== 0) {

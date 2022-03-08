@@ -1,4 +1,4 @@
-const nota = 110;
+const nota = 0;
 
 if (nota < 0 || nota > 100) {
   console.log ("Erro, nota inválida.")
